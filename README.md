@@ -1,5 +1,6 @@
 # directories
 Project file for coding challenge
 
-Download the file and run in the terminal using command: "python3 directory.py"
-Not including a requirements.txt file because no libraries were used. 
+1. Clone repo from GitHub and run the following command in the terminal: python3 directories.py
+2. I used Python 3 and VSCode.
+   
